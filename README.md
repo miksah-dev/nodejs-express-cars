@@ -1,3 +1,3 @@
 # nodejs-express-cars
 
-Nodejs example tieh Express and MySQL
+Nodejs example the Express and MySQL
